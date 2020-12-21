@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747555470165",
+    "project_id": "repository-application",
+    "storage_bucket": "repository-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747555470165:android:0facd060d237b679670ddc",
+        "android_client_info": {
+          "package_name": "com.ozan.repoapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747555470165-3b3at1dv6qaoraim6rdg56rnpogeluna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd1SISf6260bUZrH3eQjvKRQJX7sZyy5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747555470165-3b3at1dv6qaoraim6rdg56rnpogeluna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
